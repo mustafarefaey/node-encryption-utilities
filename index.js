@@ -4,7 +4,7 @@ const crypto = require("crypto");
  * @returns {crypto.ECDH}
  */
 function generateKeysPair() {
-  const instance = crypto.createECDH("secp256k1");
+  const instance = crypto.createECDH("secp384r1");
   instance.generateKeys();
   return instance;
 }
