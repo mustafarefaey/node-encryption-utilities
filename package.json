@@ -1,6 +1,6 @@
 {
-  "name": "node-encryption-utilities",
-  "version": "1.0.0",
+  "name": "@mustafarefaey/node-encryption-utilities",
+  "version": "1.0.1",
   "description": "Node Encryption Utilities",
   "main": "index.js",
   "scripts": {},
