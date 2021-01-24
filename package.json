@@ -1,0 +1,18 @@
+{
+  "name": "node-encryption-utilities",
+  "version": "1.0.0",
+  "description": "Node Encryption Utilities",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mustafarefaey/node-encryption-utilities.git"
+  },
+  "keywords": [],
+  "author": "Mustafa Refaey <mustafarefaey@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mustafarefaey/node-encryption-utilities/issues"
+  },
+  "homepage": "https://github.com/mustafarefaey/node-encryption-utilities#readme"
+}
